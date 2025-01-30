@@ -1,0 +1,33 @@
+.header{
+  background-color: aquamarine;
+  width: 50%;
+  display: flex;
+  
+  
+}
+img {
+  width: 40px;
+  height: 40px;
+}
+
+.card{
+  padding-left: 50px;
+  border-style: solid;
+  width: 40%;
+  
+}
+
+.cardImg{
+  width: 100%;
+ display: flex;
+
+}
+.cardDetails{
+  display:flex;
+  align-items: center;
+  height: 30px;
+  font-size: medium;
+  font-family: 'Courier New', Courier, monospace;
+  align-content: space-between;
+  margin-left: 20px;
+}
