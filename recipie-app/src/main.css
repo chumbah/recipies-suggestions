@@ -1,0 +1,50 @@
+body{
+    margin: 0px;
+
+  }
+
+  .header{
+    background-color: rgb(195, 223, 213);
+    width: 100%;
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    justify-content: center;
+    height: 60px;   
+    font-family:cursive; 
+    
+  }
+  img {
+    width: 40;
+    height: 40;
+  }
+  
+  .entry{
+    display: flex;
+    padding: 20px 60px;
+
+  }
+ 
+.entry button{
+    background-color: black;
+    border-radius: 4px;
+    color: rgb(255, 255, 255);
+    font-family: 'Courier New', Courier, monospace;
+}
+ 
+.getRecipie{
+    display: flex;
+    padding: 2px 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 10px;
+    box-sizing: border-box;
+    background-color: rgb(195, 223, 213);
+    border-radius: 6px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 60px;
+    
+    
+}
